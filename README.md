@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 About the Developer
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/RasyaGtps" alt="Rasya's Profile" width="100px" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/RasyaGtps" alt="Rasya's Profile" width="100px" style="border-radius: 50%;" />
   <br />
   <b>Rayy (Rasya)</b>
   <br />
